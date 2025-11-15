@@ -7,7 +7,7 @@ import datetime
 # If you already call set_page_config in Trading_App.py, you can
 # keep this or comment it out. It’s safe in a standalone page.
 st.set_page_config(
-    page_title='Stock Prices',
+    page_title='Stock Pricessss',
     page_icon='https://cdn.freebiesupply.com/logos/thumbs/1x/nvidia-logo.png',
     layout="wide",
 )
