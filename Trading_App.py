@@ -23,7 +23,7 @@ st.markdown("# Trading Guide App")
 st.markdown("---")
 
 # Banner image
-st.image("pexels-anna-nekrashevich-6801648.jpg", use_container_width=True)
+st.image("Banner.jpg", use_container_width=True)
 
 # Intro
 st.markdown(
